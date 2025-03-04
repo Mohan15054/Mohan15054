@@ -21,33 +21,16 @@ I specialize in:
 
 ## 🏆 Key Skills
 
-### **💡 System Design & Architecture**
-✔️ Scalable, high-availability systems  
-✔️ Performance optimization  
+✔️ System Design: Scalable & high-availability architecture, performance optimization
 
-### **🗄️ Database Administration**
-✔️ PostgreSQL, MySQL, Redis, TimescaleDB  
-✔️ Query optimization, replication, and high availability  
-✔️ Cloud-native database solutions  
+✔️ Database Management: PostgreSQL, MySQL, Redis, TimescaleDB, query optimization, replication
 
-### **☁️ Cloud Engineering**
-✔️ **Azure** cloud solutions  
-✔️ **Containerization** with Docker & Kubernetes  
-✔️ **Cloud-native** architectures  
+✔️ Cloud & DevOps: Azure, Docker, Kubernetes, GitHub, GitLab, CI/CD pipelines
 
-### **⚙️ CI/CD & DevOps**
-✔️ GitHub, GitLab, Azure DevOps  
-✔️ Automation & deployment pipelines  
-✔️ Container orchestration  
+✔️ Security & Optimization: Secure communication, encryption, IAM, system hardening
 
-### **🔒 Security & Optimization**
-✔️ Secure communication & encryption protocols  
-✔️ Identity & access management  
-✔️ System hardening & security best practices  
+✔️ Programming & Scripting: Python, Go, Bash, automation & infrastructure management
 
-### **💻 Programming & Scripting**
-✔️ Python, Go, Bash scripting  
-✔️ Automation & infrastructure management  
 
 ---
 
