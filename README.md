@@ -1,57 +1,108 @@
 # Hi there! 👋 I'm Mohan
 
-🚀 **System Designer | Cloud Engineer | Database Administrator**  
-🔧 Passionate about **scalable, secure, and high-performance systems**  
+🚀 Backend Developer | Cloud-Native Engineer | System Architecture Enthusiast  
+⚡ Passionate about building scalable systems, optimizing performance, and solving engineering problems
 
 ---
 
 ## 🛠️ About Me
 
-I am an experienced professional with over **three years** of expertise in **system design, database administration, and cloud engineering**. My background in **modern application development and infrastructure management** allows me to build **scalable, secure, and high-performance systems** that meet business needs.
+I'm a software engineer with experience in backend development, cloud-native technologies, industrial automation, and system architecture.
 
-I started my career in **industrial automation**, focusing on **energy management and vibration analysis projects**. However, my passion for **system architecture and cloud technologies** led me to expand my skill set into **cloud engineering, database management, and system design**.
+I started my journey in industrial automation, working on energy management and vibration analysis systems. Over time, my curiosity shifted toward software systems, distributed architecture, cloud platforms, and performance engineering.
 
-I specialize in:
-- **Building scalable and secure architectures** 🚀
-- **Optimizing cloud-based applications & CI/CD pipelines** ☁️
-- **Managing highly available database systems** 💾
-- **Implementing observability and security best practices** 🔒
+I enjoy understanding how systems behave under scale and finding efficient solutions rather than simply making things work.
 
----
+Current focus areas:
 
-## 🏆 Key Skills
-
-✔️ System Design: Scalable & high-availability architecture, performance optimization
-
-✔️ Database Management: PostgreSQL, MySQL, Redis, TimescaleDB, query optimization, replication
-
-✔️ Cloud & DevOps: Azure, Docker, Kubernetes, GitHub, GitLab, CI/CD pipelines
-
-✔️ Security & Optimization: Secure communication, encryption, IAM, system hardening
-
-✔️ Programming & Scripting: Python, Go, Bash, automation & infrastructure management
-
+- Building scalable backend systems
+- System design & architecture
+- Cloud-native applications
+- Performance optimization
+- Database tuning and reliability engineering
+- Automation and AI-assisted workflows
 
 ---
 
-## 📈 What I Work On
-- **Designing and implementing high-performance cloud-native applications**
-- **Developing scalable and efficient system architectures**
-- **Optimizing database performance and ensuring high availability**
-- **Enhancing observability using monitoring tools (New Relic, Zabbix)**
-- **Implementing security-first strategies in system design**
+## ⚙️ Tech Stack
+
+### Languages
+- Go
+- Python
+- JavaScript / TypeScript
+- Bash
+- SQL
+
+### Backend & Infrastructure
+- FastAPI
+- Node.js
+- Docker
+- Kubernetes
+- Nginx
+- REST APIs
+- WebSockets
+
+### Databases
+- PostgreSQL
+- MySQL
+- Redis
+- TimescaleDB
+
+### DevOps & Cloud
+- Azure
+- GitHub Actions
+- GitLab CI/CD
+- Linux
+- Monitoring & Observability
+
+### Tools & Monitoring
+- New Relic
+- Zabbix
+- Ignition
+- MQTT
+- EMQX
 
 ---
- 
-## 🚩Most Used Languages
-[![🚩Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohan15054&layout=compact&theme=radical)](https://github.com/Mohan15054)
 
-## 📫 Let's Connect!
-📧 Email: [mohan](mmohanakkumar@gmail.com)
-💼 LinkedIn: [mohan15054/](https://www.linkedin.com/in/mohan15054/)  
+## 🚀 Current Projects
 
-I’m always excited to connect, collaborate, and contribute to impactful projects. Let’s build something great together! 🚀
+- Building AI-assisted systems for automation workflows
+- Designing scalable backend architectures
+- Refactoring applications for better performance
+- Exploring LLM-powered agents and MCP integrations
+- Building cloud-native and event-driven systems
 
+---
 
-<a href="https://app.daily.dev/mohan15054"><img src="https://api.daily.dev/devcards/v2/jQweVBAS1t1DY1KJoMkA7.png?r=qyt&type=wide" width="652" alt="MOHANAKKUMAR's Dev Card"/></a>
+## 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohan15054&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohan15054&layout=compact&theme=radical)
+
+---
+
+## 🌱 Interests
+
+- Distributed systems
+- System design
+- Performance engineering
+- Cloud architecture
+- AI systems
+- Industrial IoT
+
+---
+
+## 📫 Connect
+
+📧 Email: mohanakkumar.in@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/mohan15054/
+
+---
+
+> Build systems that scale. Optimize what matters. Automate repetitive work.
+
+<a href="https://app.daily.dev/mohan15054">
+<img src="https://api.daily.dev/devcards/v2/jQweVBAS1t1DY1KJoMkA7.png?r=qyt&type=wide" width="652" alt="Mohan Dev Card"/>
+</a>
