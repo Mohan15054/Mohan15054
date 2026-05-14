@@ -52,3 +52,6 @@ I specialize in:
 
 I’m always excited to connect, collaborate, and contribute to impactful projects. Let’s build something great together! 🚀
 
+
+<a href="https://app.daily.dev/mohan15054"><img src="https://api.daily.dev/devcards/v2/jQweVBAS1t1DY1KJoMkA7.png?r=qyt&type=wide" width="652" alt="MOHANAKKUMAR's Dev Card"/></a>
+
